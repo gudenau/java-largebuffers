@@ -1,0 +1,7 @@
+.idea/*
+target/*
+*.iml
+.kdev4/*
+*.kdev4
+*.o
+*.so
